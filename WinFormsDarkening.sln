@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsDarkeningTest", "WinFormsDarkeningTest\WinFormsDarkeningTest.csproj", "{779D975A-8834-415F-8011-AFECCE8E12BC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6BAB2E79-5977-4A5C-A46B-6516FD6A6922} = {6BAB2E79-5977-4A5C-A46B-6516FD6A6922}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsDarkening", "WinFormsDarkening\WinFormsDarkening.csproj", "{6BAB2E79-5977-4A5C-A46B-6516FD6A6922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779D975A-8834-415F-8011-AFECCE8E12BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779D975A-8834-415F-8011-AFECCE8E12BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779D975A-8834-415F-8011-AFECCE8E12BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779D975A-8834-415F-8011-AFECCE8E12BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAB2E79-5977-4A5C-A46B-6516FD6A6922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAB2E79-5977-4A5C-A46B-6516FD6A6922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAB2E79-5977-4A5C-A46B-6516FD6A6922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAB2E79-5977-4A5C-A46B-6516FD6A6922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81A3F930-7F7C-4378-A7B8-90DD0FB2C256}
+	EndGlobalSection
+EndGlobal
